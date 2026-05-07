@@ -26,13 +26,13 @@ Data Analyst focused on practical learning through bootcamps, projects, and hack
 
 ## Certifications
 
-### Advanced Python Certificate — :contentReference[oaicite:0]{index=0}
+### Advanced Python Certificate — :contentReference[https://savanna.alxafrica.com/certificates/PTLc3NMERB]{index=0}
 Learned Python programming, automation, debugging, and problem-solving.
 
-### Data Analytics Programme — :contentReference[oaicite:1]{index=1}
+### Data Analytics Programme — :contentReference[https://savanna.alxafrica.com/certificates/9GxRX6zeYN]{index=1}
 Learned how to collect, clean, analyse, and present data using spreadsheets and SQL.
 
-### AWS AI & Machine Learning Programme — :contentReference[oaicite:2]{index=2}
+### AWS AI & Machine Learning Programme — :contentReference[https://www.udacity.com/certificate/e/b97ff6dc-3296-11f1-b01a-170c0e9dc92e}
 Learned the basics of Artificial Intelligence and Machine Learning and how AI tools work.
 
 ---
